@@ -1,5 +1,6 @@
 plugins {
     id 'java'
+    //빌드결과가 와르 이기 위한 플러그인
     id 'war'
 }
 
